@@ -1,1 +1,1 @@
-Text 20
+This is new framework.
